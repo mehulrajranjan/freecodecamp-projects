@@ -1,0 +1,77 @@
+** start of index.html **
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>Contact Form</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+  <div class="form-container">
+    
+    <form>
+      <h2>Contact Us</h2>
+      <label for="name">Enter Your Name:<input type="text" name="name" id="name" required></label>
+      <label for="email">Email:<input type="email" id="email" name="email" required></label>
+      <label for="message">Message:<textarea id="message" name="message" required></textarea></label>
+      <button type="submit">Submit</button>
+    </form>
+  </div>
+</body>
+
+</html>
+
+** end of index.html **
+
+** start of styles.css **
+
+body{
+  margin:0;
+  padding:0;
+  background-color:cyan;
+  height:100vh;
+  display:flex;
+  justify-content:center;
+  align-items:center;
+}
+
+
+.form-container{
+  background-color:white;
+  border-radius:15px;
+  padding:10px;
+  width:400px;
+  text-align:center;
+}
+label{
+  margin:10px;
+  color:grey;
+  display:block;
+}
+input,textarea{
+  width:100%;
+  padding:10px;
+  box-sizing:border-box;
+  margin-bottom:10px;
+  font-size:1em;
+}
+button{
+  background-color:#4CAF50;
+  border-radius:6px;
+  display:block;
+  margin:auto auto;
+  width:100px;
+  height:40px;
+  font-size:1em;
+  color:white;
+}
+button:hover{
+  background-color:green;
+  
+}
+
+** end of styles.css **
+
