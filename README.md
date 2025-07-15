@@ -22,6 +22,7 @@ This repository contains a collection of beginner-to-intermediate level web deve
 | `build-a-newspaper-article.txt`   | An old-school newspaper article layout using semantic tags. |
 | `build-a-page-of-playing-cards.txt` | Page design displaying different playing cards. |
 | `code` / `code 2`                 | Custom HTML/CSS snippets, experiments or additional examples. |
+| `Build a balance sheet` | A CSS project that displays a financial balance sheet. |
 
 ---
 
