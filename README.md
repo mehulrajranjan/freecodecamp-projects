@@ -4,7 +4,7 @@
 [![CSS](https://img.shields.io/badge/CSS-3-1572B6?logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
-This repository contains a collection of beginner-to-intermediate level web development projects built as part of the **FreeCodeCamp Responsive Web Design Certification**. Each project is crafted using **HTML5** and **CSS3**, and focuses on a unique UI concept such as layout design, accessibility, semantics, and visual creativity.
+This repository contains a collection of beginner-to-intermediate level web development projects built as part of the **FreeCodeCamp Full Stack Developer Certification**. Each project is crafted using **HTML5** and **CSS3**, and focuses on a unique UI concept such as layout design, accessibility, semantics, and visual creativity.
 
 ---
 
