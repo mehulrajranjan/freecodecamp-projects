@@ -23,20 +23,15 @@
   background-color:salmon;
   border:10px solid sienna;
 }
-#chimney{
-  position:absolute;
-  top:-100px;
-  left:300px;
-  background: repeating-linear-gradient(
-    180deg,
-      grey,
-    grey 10px,
-    black 10px,
-    grey 20px
-  );
-  height:92px;
-  width:100px;
-
+#chimney {
+    position: absolute;
+    width: 90px;
+    height: 100px;
+    top: -100px;
+    left: 65%;
+    background: repeating-linear-gradient(#e6e6e6, #e6e6e6 10%, black 10%, black 12%);
+    border: 2px solid black;
+    z-index: -1;
 }
 #door{
   background-color:white;
