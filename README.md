@@ -46,7 +46,7 @@ You can view the projects by opening the respective `index.html` files locally, 
 
 ## 🏷️ Tags (SEO Keywords)
 
-`HTML5`, `CSS3`, `FreeCodeCamp`, `Web Design`, `Responsive Projects`, `Tribute Page`, `Nutritional Label`, `Rothko Painting`, `Quiz App`, `Cat Painting`, `CSS Art`, `Beginner Projects`, `GitHub Pages`, `Frontend Practice`, `Open Source Learning`
+`HTML5`, `CSS3`, `FreeCodeCamp`, `Web Design`, `Responsive Projects`, `Tribute Page`, `Nutritional Label`, `Rothko Painting`, `Quiz App`, `Cat Painting`,`Balance Sheet`, `CSS Art`, `Beginner Projects`, `GitHub Pages`, `Frontend Practice`, `Open Source Learning`
 
 ---
 
